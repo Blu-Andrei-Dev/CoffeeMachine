@@ -1,4 +1,5 @@
 ﻿using CoffeeMachine.Api.Logic;
+using CoffeeMachine.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ICoffeeLogic, CoffeeLogic>();
 builder.Services.AddSingleton<ICallCounter, InMemoryCallCounter>();
 builder.Services.AddSingleton<IDateTimeProvider, SystemDateTimeProvider>();
+builder.Services.AddSingleton<IWeatherService>(new WeatherService(32)); 
+
+
 
 var app = builder.Build();
 

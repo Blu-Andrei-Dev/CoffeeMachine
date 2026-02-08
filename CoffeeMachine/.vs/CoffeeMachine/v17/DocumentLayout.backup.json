@@ -1,57 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\",
+  "WorkspaceRootPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\services\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\services\\coffelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\coffelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\controllers\\coffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\controllers\\coffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\models\\brewresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\brewresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\models\\brewcoffeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\brewcoffeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine.tests\\logic\\coffeelogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine.tests\\logic\\coffeelogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\logic\\coffeelogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\controllers\\coffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\controllers\\coffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\coffeemachine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\coffeemachine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\models\\brewcoffeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\brewcoffeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine.tests\\testdoubles\\fakecallcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\testdoubles\\fakecallcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\models\\brewresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\brewresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine.tests\\testdoubles\\fakedatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\testdoubles\\fakedatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\services\\callcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\services\\callcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\callcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\services\\coffeelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\coffeelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\services\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine.tests\\testdoubles\\fakeweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\testdoubles\\fakeweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine.tests\\testdoubles\\fakedatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\testdoubles\\fakedatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine.tests\\testdoubles\\fakecallcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A243D4-8F0B-499B-898A-9309CB882D4D}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\testdoubles\\fakecallcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\coffeemachine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\coffeemachine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine\\coffeemachine\\coffeemachine.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\blu andrei\\source\\repos\\coffeemachine - extra credit\\coffeemachine\\coffeemachine.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{B3654E74-C6C6-4B0A-9B74-2A98667E438B}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\coffeemachine.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -62,76 +70,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoffeLogic.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\CoffeLogic.cs",
-              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\CoffeLogic.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\CoffeLogic.cs",
-              "RelativeToolTip": "CoffeeMachine\\Services\\CoffeLogic.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowBsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T04:53:02.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Program.cs",
-              "RelativeDocumentMoniker": "CoffeeMachine\\Program.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Program.cs",
-              "RelativeToolTip": "CoffeeMachine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T05:21:01.138Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DateTimeProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\DateTimeProvider.cs",
-              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\DateTimeProvider.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\DateTimeProvider.cs",
-              "RelativeToolTip": "CoffeeMachine\\Services\\DateTimeProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "CoffeeLogicTests.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
+              "RelativeToolTip": "CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T04:58:08.294Z",
+              "WhenOpened": "2026-02-07T07:27:29.533Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\CallCounter.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\CallCounter.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\CallCounter.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\CallCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T04:57:37.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\TestDoubles\\FakeWeatherService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Tests\\TestDoubles\\FakeWeatherService.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\TestDoubles\\FakeWeatherService.cs",
+              "RelativeToolTip": "CoffeeMachine.Tests\\TestDoubles\\FakeWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:35:19.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FakeDateTimeProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\TestDoubles\\FakeDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\TestDoubles\\FakeDateTimeProvider.cs",
               "RelativeDocumentMoniker": "CoffeeMachine.Tests\\TestDoubles\\FakeDateTimeProvider.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\TestDoubles\\FakeDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\TestDoubles\\FakeDateTimeProvider.cs",
               "RelativeToolTip": "CoffeeMachine.Tests\\TestDoubles\\FakeDateTimeProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-07T07:27:10.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CoffeeLogicTests.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
-              "RelativeDocumentMoniker": "CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
-              "RelativeToolTip": "CoffeeMachine.Tests\\Logic\\CoffeeLogicTests.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwEgAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\WeatherService.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T07:27:29.533Z"
+              "WhenOpened": "2026-03-31T18:20:27.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\DateTimeProvider.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\DateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\DateTimeProvider.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\DateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T04:58:08.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoffeeLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\CoffeeLogic.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\CoffeeLogic.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Services\\CoffeeLogic.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\CoffeeLogic.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T04:53:02.818Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BrewResult.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\BrewResult.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Models\\BrewResult.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\Models\\BrewResult.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\BrewResult.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Models\\BrewResult.cs",
               "RelativeToolTip": "CoffeeMachine\\Models\\BrewResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,34 +172,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CoffeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Controllers\\CoffeeController.cs",
-              "RelativeDocumentMoniker": "CoffeeMachine\\Controllers\\CoffeeController.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Controllers\\CoffeeController.cs",
-              "RelativeToolTip": "CoffeeMachine\\Controllers\\CoffeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T04:43:43.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CoffeeMachine.csproj",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
-              "RelativeDocumentMoniker": "CoffeeMachine\\CoffeeMachine.csproj",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
-              "RelativeToolTip": "CoffeeMachine\\CoffeeMachine.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-07T05:48:01.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "BrewCoffeeResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\BrewCoffeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Models\\BrewCoffeeResponse.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\Models\\BrewCoffeeResponse.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\BrewCoffeeResponse.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Models\\BrewCoffeeResponse.cs",
               "RelativeToolTip": "CoffeeMachine\\Models\\BrewCoffeeResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +183,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "CoffeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Controllers\\CoffeeController.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Controllers\\CoffeeController.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Controllers\\CoffeeController.cs",
+              "RelativeToolTip": "CoffeeMachine\\Controllers\\CoffeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T04:43:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FakeCallCounter.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\TestDoubles\\FakeCallCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\TestDoubles\\FakeCallCounter.cs",
               "RelativeDocumentMoniker": "CoffeeMachine.Tests\\TestDoubles\\FakeCallCounter.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\TestDoubles\\FakeCallCounter.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine.Tests\\TestDoubles\\FakeCallCounter.cs",
               "RelativeToolTip": "CoffeeMachine.Tests\\TestDoubles\\FakeCallCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,23 +208,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CallCounter.cs",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\CallCounter.cs",
-              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\CallCounter.cs",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\CallCounter.cs",
-              "RelativeToolTip": "CoffeeMachine\\Services\\CallCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\Program.cs",
+              "RelativeToolTip": "CoffeeMachine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T04:57:37.736Z"
+              "WhenOpened": "2026-02-07T05:21:01.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CoffeeMachine.csproj",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\CoffeeMachine.csproj",
+              "RelativeDocumentMoniker": "CoffeeMachine\\CoffeeMachine.csproj",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\CoffeeMachine.csproj",
+              "RelativeToolTip": "CoffeeMachine\\CoffeeMachine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-07T05:48:01.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CoffeeMachine.http",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.http",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\CoffeeMachine.http",
               "RelativeDocumentMoniker": "CoffeeMachine\\CoffeeMachine.http",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.http",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\CoffeeMachine.http",
               "RelativeToolTip": "CoffeeMachine\\CoffeeMachine.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -211,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\appsettings.json",
               "RelativeDocumentMoniker": "CoffeeMachine\\appsettings.json",
-              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\appsettings.json",
+              "ToolTip": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine - Extra Credit\\CoffeeMachine\\appsettings.json",
               "RelativeToolTip": "CoffeeMachine\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
