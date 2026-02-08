@@ -1404,11 +1404,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj",
       "projectName": "CoffeeMachine.Tests",
-      "projectPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj",
+      "projectPath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj",
       "packagesPath": "C:\\Users\\Blu Andrei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1429,8 +1429,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {
-              "projectPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj"
+            "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {
+              "projectPath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj"
             }
           }
         }

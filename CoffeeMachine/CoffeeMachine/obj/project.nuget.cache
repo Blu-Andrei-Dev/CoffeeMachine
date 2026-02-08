@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJGoR/JxCac=",
+  "dgSpecHash": "w48OBo8e6FA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+  "projectFilePath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blu Andrei\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Blu Andrei\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

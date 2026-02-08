@@ -18,7 +18,7 @@ namespace CoffeeMachine.Controllers
         [HttpGet("brew-coffee")]
         public async Task BrewCoffee()
         {
-            var result = _coffeeLogic.BrewCoffee();
+            var result = await _coffeeLogic.BrewCoffee();
 
             if (result.Response is null)
             {

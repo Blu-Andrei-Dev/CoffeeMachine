@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {}
+    "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {
+    "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectUniqueName": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
         "projectName": "CoffeeMachine",
-        "projectPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectPath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
         "packagesPath": "C:\\Users\\Blu Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine\\obj\\",
+        "outputPath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

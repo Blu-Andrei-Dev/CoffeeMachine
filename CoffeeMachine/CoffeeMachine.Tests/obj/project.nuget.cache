@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XSY309iXEoE=",
+  "dgSpecHash": "9VB0qMM1W0g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blu Andrei\\source\\repos\\CoffeeMachine\\CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Blu Andrei\\source\\git\\Extra-Credits\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blu Andrei\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Blu Andrei\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
