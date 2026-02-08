@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CoffeeMachine.Controllers.CoffeeController",
+    "Method": "BrewCoffee",
+    "RelativePath": "brew-coffee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
